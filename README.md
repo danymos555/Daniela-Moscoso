@@ -1,7 +1,7 @@
 # Daniela-Moscoso
 About me
 
-👾I'm a Gradute Level Software Engineer currently looking for: internship | entry level job.
+👾I'm a Fresh Graduate Software Engineer currently looking for: internship | entry level job.
 
 🫀Current Interests are: 
   -Backend Development
